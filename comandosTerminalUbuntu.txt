@@ -1,0 +1,25 @@
+- pwd (Directorio)
+- ls (Lista de contenido)
+- cd nombreDirectorio (Cambiar directorio)
+- mkdir nombreDirectorio (Crear carpeta)
+- rmdir nombreDirectorio (Borrar carpeta) (Solo borra directorios vacio)
+- cd /directorio/------/ (Movernos directamente a un directorio)
+- cd ./directorio/----/ (Movernos directamente a una ruta) (Un punto es el di
+rectorio actual)
+- cd .. (Regresar a directorio padre) (Dos puntos es el padre)
+- cd ../directorio/ (Regresar a una ruta exacta en la clase padre)
+- cd (Nos lleva al directorio home)
+- clear (Limpiar) (ctrl + l)
+- touch nombreFichero.extension (prueba.txt) (Crear fichero)
+- rm nombreFichero (Borrar Fichero)
+- echo palabra (Imprimir una palabra en terminal)
+- echo "Hola Mundo" (Imprimir palabras con espacios)
+- cat nombreFichero (Muestra el contenido del fichero)
+- mv nombreFichero(ruta) nombreUbicacion(ruta) (. Punto para mover a 
+la locacion actual) (Mover un fichero/carpeta a una ubicacion
+- mv nombreFicher nuevoNombreFichero (Cambiar el nombre de un archivo)
+- cp nombreFichero rutaFinal (Copiar un archivo)
+- comando ../ Padre comando   ../,,/ Padre del Padre
+- cp nombreArchivo rutaDeseada/nuevoNombre (Copiar y cambiar nombre del 
+fichero)
+- 
