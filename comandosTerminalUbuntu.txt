@@ -22,4 +22,11 @@ la locacion actual) (Mover un fichero/carpeta a una ubicacion
 - comando ../ Padre comando   ../,,/ Padre del Padre
 - cp nombreArchivo rutaDeseada/nuevoNombre (Copiar y cambiar nombre del 
 fichero)
-- 
+- rm -r nombreDirectorio (Borrar todo lo que esta dentro del Directorio)
+(Borra todo, no se puede recuperar ningun archivo)
+- rm -ri nombreDirectorio (Borra todo lo que desees borrar s/n)
+- rm/touch nombreFichero nombreFichero (Borrar o crear varios ficheros)
+- man comando (Manual de todos los comandos) *******  (Para navegar por la 
+terminal (Enter para navegar de linea en linea) (Espacio para navegar de 
+pagina en pagina) (Q para salir)
+- comando --help (Informacion de un comando)
