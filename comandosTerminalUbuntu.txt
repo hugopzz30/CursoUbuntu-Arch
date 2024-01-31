@@ -36,4 +36,22 @@ pagina en pagina) (Q para salir)
 - nano (Escribir dentro de la terminal)
 - grep (Buscar patrones o palabras clave dentro de un archivo)
 - grep -n (Numero de lineas donde se encuentran los patrones)
+- Clic central (Rueda) (Pegar en terminal)
+
+Instalacion de Software
+- sudo su root (Cambiar a modo administrador) (sudo su: Comando reducido)
+- su nombreUsuario (Cambiar de usuario)
+- sudo (Capacidad de ejecutar cualquier comando)
+
+Configurar GRUB
+- cat /etc/default/grub (Ruta para configurar el GRUB) (Opciones 
+que podemos utilizar en el GRUB)
+- nano +ruta (Editar) 
+Dentro del editor
+Opcion GRUB_DEFAULT=numero (Opcion de arranque del PC)
+Opcion GRUB_TIMEOUT=numero (Opcion de tiempo de espera de arranque por
+default (seg))
+- nano /boot/grub/grub.cfg (Archivo que usa GRUB para configurarse) (NO USAR)
+- update-grub (Actualizar archivo editado)
+- sudo !! (Actualiza cualquier archivo editado con anterioridad)
 
