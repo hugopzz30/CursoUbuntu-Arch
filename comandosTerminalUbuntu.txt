@@ -30,3 +30,10 @@ fichero)
 terminal (Enter para navegar de linea en linea) (Espacio para navegar de 
 pagina en pagina) (Q para salir)
 - comando --help (Informacion de un comando)
+- comandoDeCreacion/Borrado "nombre Archivo" (Nombre de directorio con palabaras separadas)
+- touch .nombreArchivo (Con el punto se esconde el archivo y no es visible)
+- ls -a (Muestra archivos ocultos)
+- nano (Escribir dentro de la terminal)
+- grep (Buscar patrones o palabras clave dentro de un archivo)
+- grep -n (Numero de lineas donde se encuentran los patrones)
+
